@@ -91,7 +91,7 @@ class Game
 		end 
 
 		board.draw_board()
-		if !turn then 
+		if 
 			puts "player won"
 		else 
 			puts "computer won"
